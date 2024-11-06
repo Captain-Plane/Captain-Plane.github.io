@@ -20,18 +20,18 @@ title: My page
           <div class="nav-collapse collapse" style="height: 0px;">
             <ul class="nav">
               <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li><a href="/References_and_explanation.pdf">Reference List</a></li>
+              <li><a href="/contact">Contact</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
+                  <li><a href="#">This Toolbar</a></li>
+                  <li><a href="#">Contains</a></li>
+                  <li><a href="#">Only Form</a></li>
                   <li class="divider"></li>
-                  <li class="nav-header">Nav header</li>
-                  <li><a href="#">Separated link</a></li>
-                  <li><a href="#">One more separated link</a></li>
+                  <li class="nav-header">There is</li>
+                  <li><a href="#">no</a></li>
+                  <li><a href="#">Content</a></li>
                 </ul>
               </li>
             </ul>
@@ -53,18 +53,18 @@ title: My page
       <div class="row">
         <div class="span4">
           <h2>Who do the Standards Serve</h2>
-          <p>Explain here how the standards serve silicon valley </p>
-          <p><a class="btn" href="#">View details</a></p>
+          <p>What is the purpose of ACARA's digital literacy standards? Why do they exist, and what do they aim to do?</p>
+          <p><a class="btn" href="/who_is_served">View details</a></p>
         </div>
         <div class="span4">
-          <h2>How do I serve the standards?</h2>
-          <p>Summarise how the teacher can serve the standards </p>
-          <p><a class="btn" href="#">View details</a></p>
+          <h2>How can I serve the standards?</h2>
+          <p>If you're a secondary maths teacher, you can help serve the standards. The myth-makers in Silicon Valley need YOU to help spread their ideology and maximise shareholder value!</p>
+          <p><a class="btn" href="/how_do_I_serve">View details</a></p>
        </div>
         <div class="span4">
           <h2>What is the Digital Frontier?</h2>
-          <p>The Digital Frontier represents the expansion of the digital world. But like any frontier, the digital world must be expanding into something. What is it expanding into? The digital world colonises our finite and precious lives.</p>
-          <p><a class="btn" href="#">View details</a></p>
+          <p>The Digital Frontier represents the expansion of the digital world. But like any frontier, the digital world must be expanding into something. What is it expanding into? The digital world colonises your one wild and precious life.</p>
+          <p><a class="btn" href="/digital_frontier">View details</a></p>
         </div>
       </div>
 
