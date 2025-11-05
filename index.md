@@ -20,8 +20,12 @@ title: My page
           <div class="nav-collapse collapse" style="height: 0px;">
             <ul class="nav">
 <<<<<<< Updated upstream:index.md
+<<<<<<< Updated upstream:index.md
               <li class="active"><a href="#">Home</a></li>
               <li><a href="/References_and_explanation.pdf">Reference List</a></li>
+=======
+              <li class="active"><a href="/index">Home</a></li>
+>>>>>>> Stashed changes:index.html
 =======
               <li class="active"><a href="/index">Home</a></li>
 >>>>>>> Stashed changes:index.html
@@ -49,15 +53,21 @@ title: My page
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
 <<<<<<< Updated upstream:index.md
+<<<<<<< Updated upstream:index.md
         <h1>Welcome to The Bootlicker's Guide to Implementing the Digital Literacy Standards</h1>
         <p>It is important to teach students to contribute to society by becoming technologically literate. As digital serfs, God has charged us with the sacred responsibility of producing "content" for our feudal landlords so as to increase shareholder value. Just as Educators in the Industrial Revolution empowered their students to work in factories to increase the profits of capitalists, we must today instill students with the skills they require to be producer-consumers in the digital hellscape of enshittified web 2.0</p>
         <p><a href="/explore_standards" class="btn btn-primary btn-large">Would you like to know more?</a></p>
 =======
+=======
+>>>>>>> Stashed changes:index.html
         <h1>Welcome to my website! Select from the topics below:</h1>
         <p></p>
         <p><a href="/age_of_suggestion" class="btn btn-primary btn-large">The coming of the Age of Suggestion</a></p>
         <p><a href="/dls_landing" class="btn btn-primary btn-large">"Digital Literacy" brainwashing</a></p>
         <p><a href="/dmt" class="btn btn-primary btn-large">DMT, Glyphosate and (sort of) chemtrails</a></p>
+<<<<<<< Updated upstream:index.md
+>>>>>>> Stashed changes:index.html
+=======
 >>>>>>> Stashed changes:index.html
       </div>
 
